@@ -6,7 +6,7 @@ Import-Module MSOnline
 Connect-ExchangeOnline
 Connect-msolservice
 
-#Credentials
+#SIte Admin Credentials
 # xxxxxxx@xxxxx.xxx (e-mail)
 # xxxxxxxx (password)
 
